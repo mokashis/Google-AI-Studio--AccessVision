@@ -1,0 +1,8 @@
+{
+  "name": "AccessVision Interpreter",
+  "description": "A real-time accessibility assistant providing intelligent audio descriptions, text reading, and navigation aid for visually impaired users.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
